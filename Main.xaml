@@ -98,7 +98,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="434,246" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Please  enter the prompt : " Title="Chat  GPT">
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="434,246" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Please  enter the prompt : " Title="Chat  GPooT">
       <ui:InputDialog.Result>
         <OutArgument x:TypeArguments="x:String">[Prompt]</OutArgument>
       </ui:InputDialog.Result>
